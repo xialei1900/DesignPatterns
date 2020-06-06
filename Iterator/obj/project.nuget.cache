@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "szOtwJtP+RieZ3r6j5pR2PLIlIUJVNyHYx498YhcRmBqTs+VBRN8FQS21vgzOxHbrA/HoY1/P/JbGB91YVhORQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DesignPatterns\\Iterator\\Iterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
